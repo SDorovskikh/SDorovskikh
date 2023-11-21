@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Sergei Dorovskikh
+- 👋 Hi there!
+- I’m Sergei Dorovskikh
 - 👀 I’m interested in ML techniques & practices. Started my learning about a year ago,  graduated from Yandex Data Science School
 - 🌱 I’m currently learning algorithms & ML
 - 💞️ I’m looking to collaborate on Data analysis, conventional models & deeper
